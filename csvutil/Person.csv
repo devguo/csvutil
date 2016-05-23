@@ -1,0 +1,5 @@
+Age,Address,Weight,Name
+int,string,uint16,string
+10,AAAAA,1,Kjell
+20,BBBBB,2,Apple
+30,CCCCC,9223372036854775808,Banana
