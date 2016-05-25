@@ -1,2 +1,2 @@
 # csvutil
-csvutil used for reader csv into slice of struct
+csvutil used for read csv into slice of struct
